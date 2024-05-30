@@ -1,0 +1,8 @@
+- git config --global user.name "John Doe"
+- git config --global user.email johndoe@example.com
+- git status
+- git pull origin
+- git clone
+- git add
+- git commit -m "comment"
+- git push origin main
